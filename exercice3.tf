@@ -1,5 +1,5 @@
 provider "google" {
-  project = "test-cr460"
+  project = "devoir-cr"
   credentials = "account.json"
   region  = "northamerica-northeast1"
   zone    = "northamerica-northeast1-a"
